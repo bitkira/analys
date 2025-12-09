@@ -1,0 +1,33 @@
+323
+四                              让
+给定数家
+
+*               °                1               2
+
+Fes),
+
+Ss)               1        °
+县忆知 (x) te, 1上二连续可时, 求7( 64H Hermite MALS ARH)» FF
+
+直接写出余项/(x)- HE) ATER
+
+五 de 分) 已知数据表如下:
+站     2     3     +    5      +
+
+=a                             %  由
+
+| 5 |  二    28    49    到   92      ele
+
+RISD AVAL.
+
+A155) (BA AE SAMRA AIR, fi fren tietmcenit eS
+
+MR)
+o mrenaencennast soa 4 1). afowaf samen
+
+“aie eMEAMONDL, HDL RBVASLILATN Gauss 852
+
+46,(10 99) RARE -2 + x 的正实数报(要求计算结果具有三位有效数字)
+
+wo  分别写出求解上述问题的 uler 方法及改进 Puler 法的计算公式;
+@) 取步长4= 91  分别用 Euler方法及改进 Euler 法求下列初值问题

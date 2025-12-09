@@ -1,0 +1,440 @@
+1 LY \
+课程编号，H0072101 北京理工大学 2017-2018 学年第一学期
+
+2016 级计算机学院《数值分析》期末试卷 A 卷
+
+班级        学所        姓名         成绩
+注意，@ 答题方式为闭卷。 © 可以使用计算器。         nl
+@ 将所有答案答在答题纸上，不要在试卷上答题。
+
+一、填空题〈每空2分，共 40 分)
+
+1四舍五入得到近似数 a=0.025, 则a有【_ > 】位有效数字, MORAN [22 7. YY,
+2，设有一个长方形水池， Grade tei, wiveg teal).
+
+0.1m, SU Berk was BL GMD MRE C2 从 】，相对误差是【2.oL1 J.   |
+11%     Fern
+
+3. 为提高数值计算精度，当近似值x六1时，应将Vx+I-Vx 改写为 ‘aa
+
+4. WEFT RE f(x) =0 等价变化成x= pC0o0后，和迭代二次得到三个相邻迭代值: xo ,二=
+XeBi- Yr
+
+xo) ,z1= 9g00)，则埃特肯加速法计算的下一次迭代值 = Cee BY
+5迭代法解方程的过程中，结果的含入误差通常由【量&-网〈填:第一/最后一)
+次迭代计算决定。
+6. 用匠与族截法求 +2x一8=0 在[1.3]区间上的根，应取不动点xo=【_} 】
+Cor en Terr nrtre nner
+之和的矩阵。
+8用对分法求解方程 Ko)=0 在[0.1]区间上的根，要求误差不超过 0.5 X 10%, ta HT
+分【_ 由] 次。
+9. Bef (x)=3x4+8x3-98x+1, WAR £[2,4,8,16,32]= ro 3
+~~
+10. WSBT = | ex ，要求截断误差不超过 0.5x103，若用复化楼形公式，区间[o,]
+ami 若用复化辛仆生公式， 区间[0.1]应分【_ 上 ] 等分。(注， 梯形
+
+EK.
+ATKR   re). 4% bEAsR R=  © p01), e HY 2.7183)   GY
+
+Fi) ovat f fooe= 3 so Beynenonne New)
+
+1  1  1
+» WIAlp= 0  bf  1, |lAji= C0   yd  °
+
+-1 1 一
+L      | 二|
+
+12. A=
+-1 -1 1
+
+1 -1 -l
+
+— mt
+
+|
+“ay 了
+
+[ess 6
+四 生求积公式的代数精度为【
+
+(4. Prt XC2.4-4), LX fee Ilo=  hy Xf 2508p Cb.
+已      , iw     点的步              9b
+15.  ‘a1 17,531) 1]=2, Wf @)fE x=1 点的  RAZ, Cd CX.
+
+4
+
+he, -~ Bul = 人                ，
+prism og fo                 Oye ae in
+—. OR FART ER FE x? —2x-8 =O WHE, 初始值x =1，计算结果准确到 3 位有
+效数字。       2-531
+三、设有方程组 48 =B, Heh
+i
+23 1     36     |  b
+A=|2 5 4|,B=|54     Vv
+1 3 20   66
+
+用死劳特消元法求方程组的解。
+四、用融松弛因子 w=1.03 的逐次松弛法解下面的线性方程组，要求初值取 O= xn =
+xaC=0，计算过程中保留到小数点后 4 位。
+
+。 Koss
+4 -1 0%    1        pene?
+-1 4 -1] x, |=| 4        A) Ye
+0 -1 4x) 3
+
+五、已知 sin(0.32)=0.3145665606161177......5 sin(0.34)=0.3334860921408143......, 7740/4
+0.32 与 0.34 的值建立拉格妆日插值公式计算 sin(0.33)的近似值，问;
+
+(1) sin(0.32)和 sin(0.34)的值应取多少位有效数字计算合适? | 2
+
+(2) 根据上面的结果，应用拉格朗日插值公式计算出 sin(0.33)。    ov
+
+六、按照下表的数据构造Aio)埃尔米特插值多项式 PC0，并给出 pO AT OQ HAT.
+
+1 .4.7
+
+x     1         3
+f(x)   0        0      ne (fer + foo
+re fo        ct] eine te)
+f(x)    8           th   ts           Cc ah   gat
+W     het 7 二 ide + +f)
+bye pr Tee ah
+Osh wh
+
+七、应用龙贝格求积方法计算积分上 VL+ 2x. SRR AL BD.
+
+(ha)? '
+wih.                                      R= -可 Fw
+min    ，
+2) abe                             - 了
+
+da-( he) + db Cae) + deca)              poze’, first < |
+= 0-| (prodsoxzfsexd1
+
+[Ris 1一有<ocair
+= 2并                                     izrt
+= 1)                                         (Fon »
+n >    xpot    .
+een                                  bch
+gorge                                  nz vit
+
+tb? 二=
+
+nr ba
+eo. fitm>o                                     lets
+for = dt edad
+
+ba             pol, $6)
+d+ [m- at [so                         =
+(hn - sl < a eo EX fo?               的、
+
+人 一一一) 从=2.49
+
+        3
+
+b
+a        boa                                     I] -
+v    >    okt eo
+Oa W352
+week7-1
+n>   beg, ea   ens                                   —                         fon = x
+若当/lo为任 1    mh EHR, RBA
+
+不精确成   {ifedre f adn ey
+
+ragaeormaster |一     got
+
+5    1   yy                                                ae    tery tT  Y
+2-3        Be
+
+“rb       ww 3                                           fos x
+4 dy        Eye                                                    eo fistdes +
+
+x bel          D                                                            -一        一=了
+
+a   a a :                          a a a al
+ip  ze      768                                         ;          ;        fine x!
+
+He ssp                                                      -             7         i  dda £
+32 20%?)                                                                 .       加
+
+Cary vay ， AmRem LIB                urd Y
+
+ca
+(A)
+
+ez] = fEss.4 40) hr     = 几 ，  |        六本
+1 1
+-|一一1
+3)  . . }          jo to-ft f   rof Tf
+ipa Boles            | oy   4一
+一                 -1 ;
+二和-= ;             Loy o-t 1     port
+Pay B 0 6          入-和
+42 4 oe   [av-aa [=
+aadgs
+ee ae a    (a-y)?*
+
+r
+~ I)
+
+Bury = Ar~7 nr  {t
+避 fe)
+和 Kebxeg
+
+Xn = 加-入一)
+GA  人
+
+A ahd
+
+x A
+
+Aro ®        信友入
+的     tA)
+3
+
+.    .   Aung
+=(1-A) bn + Al A> sa )
+
+= (1-A) 和了入.内
+
+m- lke dg
+
+入= 1， Kner = Veet = An ~ Int-2
+
+Mo= | ，   fers -1
+
+多 = Jo
+X=]  ZB, = ys fe,  [fran] > Ife |
+-t, ¥,2¢m¢tyr06 erate Ifo]
+wv
+
+\
+KEG, Hr be tey 22205 Heaan)rffen |
+f       了           av J      v  于
+
+了rw = -be% ，[ frre |< feo]
+
+I
+AZT, Kar thot HY, re i2K
+可     tf   a ft
+
+Xo 2-1    fons) = +2, brs
+
+Vy = 2. 3544
+A=l,   Av = 235¢]  ,  am raed Ge, I fossa | < 1 fer
+
+Av=2-3 Soh    了rs， = 3UL94
+
+WY. = 2. 33/9
+
+7?
+
+) a ee fon) = r903) ， 1了 | [tee |
+ws    tg
+
+入-|，
+
+Byrds,    fare = 00th
+
+Yer. $d)
+
+Dz, Nyse),   As) = -ooofl ,    Le jcdfom |
+
+($6 443 2BGRRE]
+
+Ky = 2.330)         522. $4
+
+
+?    2    |    34
+2 cf ¢ tye
+|     2 lo 人
+len = f
+pth     PIAS     =|
+ln = 2      Wirth  Ugze     Belg
+一 |          $-2x0.8     =
+bi22     on ans    mee >     ey
+l=    - =)     ro Pay         =
+g- yt                  _
+bu=t     lar=  gy = PE Te
+= 4.0          Yas |
+
+X, FUE X, + 0-/8Xy
+
+tl
+SA
+
+X F (4%, =
+xX, = 2
+od   |  一"人
+
+|   '                      0    Pr)
+
+a                     M2 BS = HK
+“sy- A = I
+
+wn ta Xe =F             mi? = o2g>fe,
+
+Ht EX, o-5
+
+fe) _
+x oe) = zi, Bs mae wx "4 xs”)     i =o. Sh20] ,
+)  =
+
+(ets 由-一
+
+Be fh SE (ge Ap Ae) + He?)
+
+- 4x” )     x2) > o.Lo [o)
+
+xh) = x”    AB (at (ear)
+
+xz é. fo }  Kors
+
+d
+aft =v. Kovve
+
+DEKS
+
+7
+
+BID. ov78
+
+xa |. dv9 ¥]
+
+>       3 ¥E
+
+3              _
+
+P- 1g- Fall
+
+tS” ae
+二 IL
+
+XI二了
+
+X= b
+
+R22
+
+b=
+
+20
+0G hs) , Ha - 0 Hore
+
+A= 0. feb
+
+he =
+
+(as
+X 一
+
+~.pi i}
+Xi > ~v-¥$94 )
+
+6
+x fz  [- averse      7%
+
+[evo
+
+=~ 0. Lo ave
+
+-%
+pxfo
+
+Wi
+
+-Le
+
+vob Obey (ody) +  一一
+
+V 一                          ag 2-9 bP
+7     0.2Y一上
+
+t (rn(e.gr)
+
+\        Lb     —_    -y
+< Lo X 2 Zak x Jo
+
+[ Rafafle ge nb Tle 220). 2
+
+y 三   oS («mc  + %6n co )
+R Fu se 人
+
+人
+
+E = eVx to
+= awe x |o¥
+Ge 9 (24)                              .
+Let                       vtf/24) Katty xf
+race                        OS vwtBy v fo
+
+ee Cx folic agay x fo”
+SSE DR At
+
+LOr(a2e ) cu. (6.2125) + 0.2334
+= 0.328
+
+| 2F lelt IR
+
+= oS 4 ontayri”
+
+lIo% ,      WEE Re
+
+(Oy (0.3%) = o- (oz 十 vas ) Ss aa2qgok
+
+Pe v.t x Jo?
+
+Us Prac IX lo
+
+ZUR LOK cog xla”
+
+tm (0.04) = 9.392 oo
+
+a
+v7)      y
+1      0
+froze    ，
+|    0            te =    3
+|    theca                    |
+|               -{
+2    |     |      一|
+2     O
+
+ford = ot (0  (nr) * tty + Cn)® fx) |
+
+tt)
+1
+Rey = txt cae 2ye 一
+
+S!
+
+三 二(十2 fon) 1.36 bo
+
+工不二 (fog) tho pays 40)
+
+ct
+
+x
+T1
+re
+
+T1344] -
+
+学 一
+$1 Gh a
+
+Wight oltp (19 jee + (lee +e )
+
+74.3968
+
+[和
+
+= uit      ap th    [ae ee +  He       地  一(
+                  Te 76,701
+
+fuk 4 $2 3 Cr WS BHIES.
+
+= L Coup      RAH by, Ce
+
+
